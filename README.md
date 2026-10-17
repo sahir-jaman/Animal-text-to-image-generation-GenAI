@@ -1,4 +1,4 @@
-# Animal Text-to-Image Generation (Fine-Tuned Stable Diffusion)
+# Animal Text-to-Image Generation 
 
 Type a sentence, get a picture of an animal. This project adapts a pre-trained **Stable Diffusion** model to the animal domain so that prompts like *"a brown dog running"* or *"a white cat sitting"* produce relevant, focused images.
 
