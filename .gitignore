@@ -1,0 +1,9 @@
+diffusers/
+diffusers/
+animal_text2img_project/
+Images/
+checkpoints/
+*.safetensors
+*.ckpt
+*.pt
+*.bin
