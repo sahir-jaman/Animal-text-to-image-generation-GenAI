@@ -22,7 +22,8 @@ General-purpose text-to-image models are trained on everything, so for a narrow 
 5. **Fine-tuned Stable Diffusion** with Hugging Face Diffusers (512 x 512 images, learning rate 1e-5, batch size 1 with gradient accumulation).
 6. **Compared** the fine-tuned model against the original pre-trained model on the same kind of prompts.
 
-![Methodology](images/methodology.png)
+![Methodology]<img width="495" height="707" alt="methodology" src="https://github.com/user-attachments/assets/86fdf568-7154-4dbb-a49d-2a5ac79e4dfb" />
+
 
 ## Results
 
@@ -32,9 +33,12 @@ General-purpose text-to-image models are trained on everything, so for a narrow 
 
 | Caption counts before and after filtering | Most common animal words |
 |---|---|
-| <img src="images/caption_count_before_after.png" width="380"> | <img src="images/animal_keyword_distribution.png" width="380"> |
+| <img width="626" height="366" alt="caption_count_before_after" src="https://github.com/user-attachments/assets/93541b0f-3f3d-45d4-b1b2-25d4055ceee4" />
+ | <img width="848" height="389" alt="animal_keyword_distribution" src="https://github.com/user-attachments/assets/6cf1ddab-2bb5-4252-9069-da7e90cc41e8" />
+ |
 
-![Sample filtered images](images/sample_filtered_images.png)
+![Sample filtered images]<img width="513" height="462" alt="sample_filtered_images" src="https://github.com/user-attachments/assets/4ba2774b-0142-43be-a0b7-f482b19ec298" />
+
 
 ## Repository contents
 
