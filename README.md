@@ -4,9 +4,9 @@ Type a sentence, get a picture of an animal. This project adapts a pre-trained *
 
 | Prompt | Generated image |
 |---|---|
-| a brown dog running | <img src="samples/brown_dog_running.png" width="260"> |
-| a white cat sitting | <img src="samples/white_cat_sitting.png" width="260"> |
-| a red dog swimming | <img src="samples/red_dog_swimming.png" width="260"> |
+| a brown dog running | <img src="brown_dog_running.png" width="260"> |
+| a white cat sitting | <img src="white_cat_sitting.png" width="260"> |
+| a red dog swimming | <img src="red_dog_swimming.png" width="260"> |
 
 ## The problem
 
